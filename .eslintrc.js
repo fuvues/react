@@ -2,6 +2,7 @@
 
 const {
   es5Paths,
+  esNextPaths, es5Paths,
   esNextPaths,
 } = require('./scripts/shared/pathsByLanguageVersion');
 
