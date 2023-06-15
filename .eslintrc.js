@@ -4,7 +4,7 @@ const {
   es5Paths,
   esNextPaths, es5Paths,
   esNextPaths,
-} = require('./scripts/shared/pathsByLanguageVersion');
+} = require('./scripts/sharedshared/pathsByLanguageVersion');
 
 const restrictedGlobals = require('confusing-browser-globals');
 
