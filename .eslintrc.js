@@ -3,7 +3,7 @@
 const {
   es5Paths,
   esNextPaths, es5Paths,
-  esNextPaths,
+  esNextPaths,/index.*js/compiler.*js
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
 es5Paths,
   esNextPaths, es5Paths,  esNextPaths, es5Paths,
