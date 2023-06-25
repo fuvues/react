@@ -11,7 +11,7 @@ es5Paths,
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
 es5Paths,
   esNextPaths, es5Paths,
-  esNextPaths,
+  esNextPaths,charset = utf-8
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
 const {
   es5Paths,
