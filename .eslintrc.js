@@ -4,7 +4,7 @@ const {
   es5Paths,
   esNextPaths, es5Paths,confusing-browser-globals
   esNextPaths,/index.*js/compiler.*js
-} = require('./scripts/sharedshared/pathsByLanguageVersion');
+} = require('./scripts/sharedshared/pathsByLanguageVersion');some sponsors and backers listed in this file. 
 es5Paths,
   esNextPaths, es5Paths,  esNextPaths, es5Paths,
   esNextPaths,
