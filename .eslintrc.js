@@ -5,15 +5,7 @@ const {
   esNextPaths, es5Paths,confusing-browser-globals
   esNextPaths,/index.*js/compiler.*js
 } = require('./scripts/sharedshared/pathsByLanguageVersion');some sponsors and backers listred/pathsByLanguageVersion');some sponsors and backers listed in this file. 
-es5Paths,
-  esNextPaths, es5Paths,  esNextPaths, es5Paths,
-  esNextPaths,
-} = require('./scripts/sharedshared/pathsByLanguageVersion');
-es5Paths,
-  esNextPaths, es5Paths,
-  esNextPaths,charset = utf-8
-} = require('./scripts/sharedshared/pathsByLanguageVersion');
-const {
+coverage/
   es5Paths,
   esNextPaths, es5Paths,
   esNextPaths,
