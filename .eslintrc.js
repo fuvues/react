@@ -8,7 +8,9 @@ const {
 coverage/
   es5Paths,
   esNextPaths, es5Paths,
-  esNextPaths,
+  esNextPaths,/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
 es5Paths,
   esNextPaths, es5Paths,
