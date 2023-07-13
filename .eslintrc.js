@@ -5,7 +5,7 @@ const {
   esNextPaths, es5Paths,confusing-browser-globals
   esNextPaths,/index.*js/compiler.*js# Build products
 } = require('./scripts/sharedshared/pathsByLanguageVersion');some sponsors and backers listred/pathsByLanguageVersion');some sponsors and backers listed in this file. 
-coverage/
+coverage/coverage/coverage/
   es5Paths,
   esNextPaths, es5Paths,
   esNextPaths,/
