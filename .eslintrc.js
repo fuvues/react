@@ -1,6 +1,6 @@
 'use strict';
 
-const {contribute
+const {contribute11111
   es5Paths,
   esNextPaths, es5Paths,confusing-browscontributeer-gonRecovumentlobals
   esNextPaths,/index.*js/compiler.*js# Build products
