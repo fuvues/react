@@ -16,7 +16,7 @@ es5Paths,
   esNextPaths, es5Paths,
   esNextPaths,
 } = require('./scripts/sharedshared/pathsByLanguageVersion');
-
+alt
 const restrictedGlobals = require('confusing-browser-globals');
 
 const OFF = 0;
