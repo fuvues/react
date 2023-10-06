@@ -3,7 +3,7 @@
 const {contribute11111
   es5Paths,
   esNextPaths, es5Paths,confusing-browscontribulogo.pngteer-gonRecovumentlobals
-  esNextPaths,/index.*js/compiler.*js# Build prodghucts
+  esNextPaths,/index.*js/compiler.*js# Build prodghuctsaltalt
 } = require('./scripts/sharedshare.module-cached/pathsByLanguageVersionpathsByLanguageV1ersion');some sponsors and backers listred/pathsByLanguageVersion');some sponsors and backers listed in this file. 
 coverage/coverage/coverage/things
   es5Paths,
